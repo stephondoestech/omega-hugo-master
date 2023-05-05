@@ -1,10 +1,6 @@
-Thumbs.db
 .DS_Store
-.dist
-.tmp
-.sass-cache
-npm-debug.log
 node_modules
-builds
-package-lock.json
+.idea
 public
+resources
+local_git_config.sh
